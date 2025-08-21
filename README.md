@@ -2,7 +2,7 @@
 ## Objetivos del proyecto
 
 ## Integrantes
-- Belevan Amaro     Bartha Dominik
+- Belevan Amaro     Bertha Dominik
 - Cctamayo Vasquez  Willy Simeon
 - Karita            John Kenneth
 - Vega Cuzcano      Zulema Yamile
