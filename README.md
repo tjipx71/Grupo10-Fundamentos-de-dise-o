@@ -21,7 +21,7 @@ Diseñar y construir un tanque purificador solar inteligente, equipado con senso
 -  Acceso a agua potable segura en zonas de difícil acceso
 -  Uso como material didáctico para proyectos similares con el fin de facilitar la investigación
 -  Captación adicional de agua de la neblina de manera costo eficiente
--  Reducción de enfermedades relacionados al consumo de agua contaminada con patógenos, partículas y químicos
+-  Reducción de enfermedades relacionados al consumo de agua contaminada con agentes patógenos, partículas y químicos
   
 ##  ¿Cómo colaborar?
 Estamos abiertos a contribuciones en:
