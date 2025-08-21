@@ -4,7 +4,7 @@
 ods6 Fuente: Naciones Unidas, 2015.
 - EcoAqua Tank aporta a esta meta al integrar un tanque de agua inteligente con sensores y un purificador solar autónomo, empoderando a las comunidades con información en tiempo real sobre la disponibilidad y calidad del agua.
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e845aa15-d138-40c9-a0b5-cb6a9d7ef0bd" />
+<img width="1500" height="400" alt="image" src="https://github.com/user-attachments/assets/e845aa15-d138-40c9-a0b5-cb6a9d7ef0bd" />
 
 ## 🏆 Objetivo del Proyecto
 Diseñar y construir un tanque purificador solar inteligente, equipado con sensores, que permita:
