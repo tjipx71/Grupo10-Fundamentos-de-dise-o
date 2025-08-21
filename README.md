@@ -5,14 +5,14 @@
 
 ##  Objetivo del Proyecto
 Diseñar y construir un tanque purificador solar inteligente, equipado con sensores, que permita:
-- Monitorear el nivel de agua en tiempo real.
-- Purificar el agua mediante lámparas UV alimentadas con energía solar.
-- Validar la calidad del agua con sensores de pH y turbidez.
-- Alertar al usuario en caso de niveles bajos o agua no apta para consumo.
-- Como fuente alternativa recolectar agua con atrapanieblas en zonas de alta humedad.
+- Monitorear el nivel de agua en tiempo real
+- Purificar el agua mediante lámparas UV alimentadas con energía solar (con batería de respaldo)
+- Validar la calidad del agua con sensores de pH y turbidez
+- Alertar al usuario en caso de niveles bajos o agua no apta para consumo (posiblemente con IoT o algún otro método)
+- Como fuente alternativa recolectar agua con atrapanieblas en zonas de alta humedad (pequeña escala)
 
 ## Mecanismo de funcionamiento
-- Obtiene agua de una fuente alternativa: Lluvia, pozo, humedad.
+- Se obtiene agua de una fuente alternativa, en este caso de las nieblas.
 - La calidad del agua es medida antes de filtar.
 - Se pasa por un filtro purificador.
 - Se mide nuevamente la calidad del agua después de filtrar y se comunica el estado al usuario.
