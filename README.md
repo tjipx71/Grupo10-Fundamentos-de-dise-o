@@ -9,13 +9,13 @@ Diseñar y construir un tanque purificador solar inteligente, equipado con senso
 - Purificar el agua mediante lámparas UV alimentadas con energía solar.
 - Validar la calidad del agua con sensores de pH y turbidez.
 - Alertar al usuario en caso de niveles bajos o agua no apta para consumo.
-- Como fuente alternativa recolectar agua con atrapanieblas en zonas de alta humedad
+- Como fuente alternativa recolectar agua con atrapanieblas en zonas de alta humedad.
 
 ## Mecanismo de funcionamiento
-- Obtiene agua de una fuente alternativa: Lluvia, pozo, humedad
-- La calidad del agua es medida antes de filtar
-- Se pasa por un filtro purificador
-- Se mide nuevamente la calidad del agua después de filtrar y se comunica el estado al usuario
+- Obtiene agua de una fuente alternativa: Lluvia, pozo, humedad.
+- La calidad del agua es medida antes de filtar.
+- Se pasa por un filtro purificador.
+- Se mide nuevamente la calidad del agua después de filtrar y se comunica el estado al usuario.
 
 ##  Impacto esperado 
 -  Acceso a agua potable segura para comunidades vulnerables.
