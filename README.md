@@ -26,7 +26,7 @@ Diseñar y construir un tanque purificador solar inteligente, equipado con senso
 - 🏫 Aplicación en escuelas, postas médicas y hogares rurales.
 - 🌱 Reducción de enfermedades hídricas y mejora en la gestión de recursos.
 
-##🤝 ¿Cómo colaborar?
+## 🤝 ¿Cómo colaborar?
 Estamos abiertos a contribuciones en:
 - Desarrollo de firmware para integración de sensores.
 - Optimización de paneles solares, lámparas UV y atrapanieblas.
