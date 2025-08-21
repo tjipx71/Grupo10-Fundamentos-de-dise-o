@@ -11,6 +11,12 @@ ods6 Fuente: Naciones Unidas, 2015.
 - Validar la calidad del agua con sensores de pH y turbidez.
 - Alertar al usuario en caso de niveles bajos o agua no apta para consumo.
 
+# Mecanismo de funcionamiento
+- Obtiene agua de una fuente alternativa: Lluvia, pozo, humedad
+- La calidad del agua es medida antes de filtar
+- Se pasa por un filtro purificador
+- Se mide la calidad del agua después de filtrar y se comunica el estado
+
 ## Integrantes
 - Belevan Amaro     Bertha Dominik
 - Cctamayo Vasquez  Willy Simeon
