@@ -1,7 +1,6 @@
 # Proyecto ODS 6 – EcoAqua Tank
 - Este repositorio documenta el desarrollo de EcoAqua Tank, un sistema inteligente y autosostenible de almacenamiento y purificación de agua, diseñado para garantizar agua limpia en comunidades rurales y urbanas con acceso limitado.
 - El proyecto se alinea con el Objetivo de Desarrollo Sostenible (ODS) 6: Agua limpia y saneamiento, específicamente con la meta 6.1, que busca lograr el acceso universal y equitativo al agua potable segura y asequible para todos.
-ods6 Fuente: Naciones Unidas, 2015.
 - EcoAqua Tank aporta a esta meta al integrar un tanque de agua inteligente con sensores y un purificador solar autónomo, empoderando a las comunidades con información en tiempo real sobre la disponibilidad y calidad del agua.
 
 ## 🏆 Objetivo del Proyecto
