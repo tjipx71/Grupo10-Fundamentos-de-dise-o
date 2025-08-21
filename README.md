@@ -27,10 +27,10 @@ Diseñar y construir un tanque purificador solar inteligente, equipado con senso
 
 ##  ¿Cómo colaborar?
 Estamos abiertos a contribuciones en:
-- Desarrollo de firmware para integración de sensores.
-- Optimización de paneles solares, lámparas UV y atrapanieblas.
-- Propuestas de interfaz (app o dashboard web).
-- Validación en distintas condiciones climáticas y geográficas.
+- Donación de aparatos en desuso para extraer componentes electrónicos útiles (Luces de emergencia, radios, etc)
+- Optimización de circuitos eléctricos o de piezas de código
+- Validación del proyecto, sea replicando y/o probando en condiciones más realistas que un laboratorio
+- Diagnóstico de problemas en caso de documentar una falla o error
   
 ## Integrantes
 - Belevan Amaro     Bertha Dominik
