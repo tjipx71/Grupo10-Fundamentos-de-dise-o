@@ -17,14 +17,12 @@ Diseñar y construir un tanque purificador solar inteligente, equipado con senso
 - Se pasa por un filtro purificador.
 - Se mide nuevamente la calidad del agua después de filtrar y se comunica el estado al usuario.
 
-##  Impacto esperado 
--  Acceso a agua potable segura para comunidades vulnerables.
--  Uso de energía solar para un funcionamiento autónomo y sostenible.
--  Monitoreo en tiempo real de nivel y calidad del agua.
--  Captación adicional de agua de la neblina, una fuente sostenible en zonas costeras y de alta humedad.
--  Aplicación en escuelas, postas médicas y hogares rurales.
--  Reducción de enfermedades hídricas y mejora en la gestión de recursos.
-
+##  Impacto esperado
+-  Acceso a agua potable segura en zonas de difícil acceso
+-  Uso como material didáctico para proyectos similares con el fin de facilitar la investigación
+-  Captación adicional de agua de la neblina de manera costo eficiente
+-  Reducción de enfermedades relacionados al consumo de agua contaminada con patógenos, partículas y químicos
+  
 ##  ¿Cómo colaborar?
 Estamos abiertos a contribuciones en:
 - Donación de aparatos en desuso para extraer componentes electrónicos útiles (Luces de emergencia, radios, etc)
