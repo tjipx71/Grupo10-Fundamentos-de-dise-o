@@ -15,7 +15,7 @@ ods6 Fuente: Naciones Unidas, 2015.
 - Obtiene agua de una fuente alternativa: Lluvia, pozo, humedad
 - La calidad del agua es medida antes de filtar
 - Se pasa por un filtro purificador
-- Se mide la calidad del agua después de filtrar y se comunica el estado
+- Se mide nuevamente la calidad del agua después de filtrar y se comunica el estado al usuario
 
 ## Integrantes
 - Belevan Amaro     Bertha Dominik
