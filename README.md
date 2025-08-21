@@ -7,7 +7,7 @@
 Diseñar y construir un tanque purificador solar inteligente, equipado con sensores, que permita:
 - Monitorear el nivel de agua en tiempo real
 - Purificar el agua mediante lámparas UV alimentadas con energía solar (con batería de respaldo)
-- Validar la calidad del agua con sensores de pH y turbidez
+- Validar la calidad del agua con sensores de pH y turbidez        (REVISAR <---------------------------------------------------------------------------------------- )
 - Alertar al usuario en caso de niveles bajos o agua no apta para consumo (posiblemente con IoT o algún otro método)
 - Como fuente alternativa recolectar agua con atrapanieblas en zonas de alta humedad (pequeña escala)
 
