@@ -1,4 +1,4 @@
-#Nombre del proyecto
+# Nombre del proyecto
 ## Objetivos del proyecto
 
 ## Integrantes
