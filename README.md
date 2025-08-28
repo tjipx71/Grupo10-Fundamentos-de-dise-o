@@ -25,4 +25,5 @@ Diseñar y construir un tanque purificador solar inteligente, equipado con senso
 | <img src="/images/3.jpg" width="90"/> | **Karita John Kenneth** |
 | <img src="/images/4.jpg" width="90"/> | **Vega Cuzcano Zulema Yamile** |
 
-
+##  Resumen Final
+- Este README explica quiénes somos, qué nos motiva y cómo enfocamos nuestro trabajo en el Objetivo de Desarrollo Sostenible 6: Agua limpia y saneamiento. Somos un grupo comprometido con aprender y aportar soluciones para garantizar el acceso al agua potable y el saneamiento adecuado, fundamentales para la salud y el bienestar. Durante el curso, nuestro objetivo es contribuir a mejorar la gestión y uso sostenible del agua, buscando generar un impacto positivo en nuestra comunidad y el medio ambiente.
