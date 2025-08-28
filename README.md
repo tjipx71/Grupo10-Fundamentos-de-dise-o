@@ -43,4 +43,4 @@ Estamos abiertos a contribuciones en:
 | <img src="/images/3.jpg" width="90"/> | **Karita John Kenneth** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="/images/4.jpg" width="90"/> | **Vega Cuzcano Zulema Yamile** | Encargado/a de documentación | Comunicación científica, redacción técnica |
 
-<img src="/images/5.jpg" width="90"/>
+<img src="/images/5.png" width="90"/>
