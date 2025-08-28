@@ -1,22 +1,28 @@
-# Proyecto ODS 6 – EcoAqua Tank 8
+# 🌍 Proyecto ODS 6 – EcoAqua Tank 8
 - Este repositorio documenta el desarrollo de EcoAqua Tank, un sistema inteligente medición y descarte de agua de fuentes cercanas a las minas.
 - El proyecto se alinea con el Objetivo de Desarrollo Sostenible (ODS) 6.3: Específicamente reducir los efectos de la contaminación en la población
 - EcoAqua Tank aporta a esta meta al integrar un tanque de agua inteligente con sensores y un purificador solar autónomo, empoderando a las comunidades con información en tiempo real sobre la disponibilidad y calidad del agua.
 
-##  Objetivo del Proyecto
+## 🌍 Objetivo del Proyecto
 Diseñar y construir un tanque purificador solar inteligente, equipado con sensores, que permita:
 - Monitorear la calidad del agua con sensores de pH, turbidez, conductividad, sólidos disueltos
 - Alertar al usuario en caso de agua no apta para consumo (posiblemente con IoT o algún otro método)
 
-##  Impacto esperado
+## 🌍 Impacto esperado
 -  Uso como material didáctico para proyectos similares con el fin de facilitar la investigación
 -  Reducción de enfermedades relacionados al consumo de agua contaminada con agentes contaminantes provenientes de las minas
-  
-## Fotografía del equipo
+-  
+## 🌍 Descripción del equipo
+
+Somos el Equipo 10, participantes del curso Fundamentos de Diseño 2025-2, integrados por estudiantes de Ingeniería Ambiental y Informática. Nuestra misión es utilizar la metodología de diseño para desarrollar soluciones creativas que aporten valor social, tecnológico y ambiental.
+
+En esta ocasión, hemos decidido centrar nuestro trabajo en el Objetivo de Desarrollo Sostenible 6: Agua limpia y saneamiento. Nos comprometemos a abordar desafíos relacionados con el acceso y la gestión responsable del agua, buscando generar un impacto positivo en nuestras comunidades y en el entorno natural.  
+
+## 📷 Fotografía del equipo
 
 <img src="/images/5.jpeg" width="1200"/>
 
-## Integrantes
+## 👫 Integrantes
 
 | Foto | Nombre |
 |------|--------|
@@ -25,5 +31,5 @@ Diseñar y construir un tanque purificador solar inteligente, equipado con senso
 | <img src="/images/3.jpg" width="90"/> | **Karita John Kenneth** |
 | <img src="/images/4.jpg" width="90"/> | **Vega Cuzcano Zulema Yamile** |
 
-##  Resumen Final
+## 📚 Resumen Final
 - Este README explica quiénes somos, qué nos motiva y cómo enfocamos nuestro trabajo en el Objetivo de Desarrollo Sostenible 6: Agua limpia y saneamiento. Somos un grupo comprometido con aprender y aportar soluciones para garantizar el acceso al agua potable y el saneamiento adecuado, fundamentales para la salud y el bienestar. Durante el curso, nuestro objetivo es contribuir a mejorar la gestión y uso sostenible del agua, buscando generar un impacto positivo en nuestra comunidad y el medio ambiente.
