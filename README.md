@@ -36,8 +36,8 @@ Estamos abiertos a contribuciones en:
 
 ## Integrantes
 
-| Foto | Nombre | Rol | Intereses |
-|------|--------|-----|-----------|
+| Foto | Nombre |
+|------|--------|
 | <img src="/images/1.jpg" width="90"/> | **Belevan Amaro Bertha Dominik**|
 | <img src="/images/2.jpeg" width="90"/> | **Cctamayo Vasquez Willy Simeon** |
 | <img src="/images/3.jpg" width="90"/> | **Karita John Kenneth** |
