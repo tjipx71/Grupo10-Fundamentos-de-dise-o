@@ -30,15 +30,17 @@ Estamos abiertos a contribuciones en:
 - Replicando y/o probando en condiciones realistas → Validación del proyecto
 - Diagnóstico de problemas en caso de documentar una falla o error → Troubleshooting
   
-## Integrantes
+## Fotografía del equipo
 
 <img src="/images/5.jpeg" width="1200"/>
 
+## Integrantes
+
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/images/1.jpg" width="90"/> | **Belevan Amaro Bertha Dominik**| Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/images/2.jpeg" width="90"/> | **Cctamayo Vasquez Willy Simeon** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/images/3.jpg" width="90"/> | **Karita John Kenneth** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/images/4.jpg" width="90"/> | **Vega Cuzcano Zulema Yamile** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="/images/1.jpg" width="90"/> | **Belevan Amaro Bertha Dominik**|
+| <img src="/images/2.jpeg" width="90"/> | **Cctamayo Vasquez Willy Simeon** |
+| <img src="/images/3.jpg" width="90"/> | **Karita John Kenneth** |
+| <img src="/images/4.jpg" width="90"/> | **Vega Cuzcano Zulema Yamile** |
 
 
