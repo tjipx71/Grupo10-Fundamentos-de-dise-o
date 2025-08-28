@@ -31,11 +31,8 @@ Estamos abiertos a contribuciones en:
 - Diagnóstico de problemas en caso de documentar una falla o error → Troubleshooting
   
 ## Integrantes
-- Belevan Amaro     Bertha Dominik
-- Cctamayo Vasquez  Willy Simeon
-- Karita            John Kenneth
-- Vega Cuzcano      Zulema Yamile
-
+<img src="/images/5.jpeg" width="1200"/>
+# BUSCADOS POR LA INTERPOL
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 | <img src="/images/1.jpg" width="90"/> | **Belevan Amaro Bertha Dominik**| Líder del equipo | Innovación social, sostenibilidad |
@@ -43,4 +40,4 @@ Estamos abiertos a contribuciones en:
 | <img src="/images/3.jpg" width="90"/> | **Karita John Kenneth** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="/images/4.jpg" width="90"/> | **Vega Cuzcano Zulema Yamile** | Encargado/a de documentación | Comunicación científica, redacción técnica |
 
-<img src="/images/5.jpeg" width="1200"/>
+
