@@ -12,13 +12,6 @@ Diseñar y construir un tanque purificador solar inteligente, equipado con senso
 -  Uso como material didáctico para proyectos similares con el fin de facilitar la investigación
 -  Reducción de enfermedades relacionados al consumo de agua contaminada con agentes contaminantes provenientes de las minas
   
-##  ¿Cómo colaborar?
-Estamos abiertos a contribuciones en:
-- Donación de aparatos en desuso para extraer componentes electrónicos útiles (Luces de emergencia, radios, etc) → Reducción de costo de insumos
-- Optimización de circuitos eléctricos o de piezas de código → Eficiencia
-- Replicando y/o probando en condiciones realistas → Validación del proyecto
-- Diagnóstico de problemas en caso de documentar una falla o error → Troubleshooting
-  
 ## Fotografía del equipo
 
 <img src="/images/5.jpeg" width="1200"/>
