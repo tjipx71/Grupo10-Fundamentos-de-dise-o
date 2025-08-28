@@ -34,8 +34,6 @@ Estamos abiertos a contribuciones en:
 
 <img src="/images/5.jpeg" width="1200"/>
 
-# BUSCADOS POR LA INTERPOL
-
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 | <img src="/images/1.jpg" width="90"/> | **Belevan Amaro Bertha Dominik**| Líder del equipo | Innovación social, sostenibilidad |
