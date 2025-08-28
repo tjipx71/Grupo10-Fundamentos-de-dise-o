@@ -8,17 +8,9 @@ Diseñar y construir un tanque purificador solar inteligente, equipado con senso
 - Monitorear la calidad del agua con sensores de pH, turbidez, conductividad, sólidos disueltos
 - Alertar al usuario en caso de agua no apta para consumo (posiblemente con IoT o algún otro método)
 
-## Ejemplo de funcionamiento
-- Se obtiene agua de una fuente alternativa, en este caso de las nieblas.
-- La calidad del agua es medida antes de filtar.
-- Se pasa por un filtro purificador.
-- Se mide nuevamente la calidad del agua después de filtrar y se comunica el estado al usuario.
-
 ##  Impacto esperado
--  Acceso a agua potable segura en zonas de difícil acceso
 -  Uso como material didáctico para proyectos similares con el fin de facilitar la investigación
--  Captación adicional de agua de la neblina de manera costo eficiente
--  Reducción de enfermedades relacionados al consumo de agua contaminada con agentes patógenos, partículas y químicos
+-  Reducción de enfermedades relacionados al consumo de agua contaminada con agentes contaminantes provenientes de las minas
   
 ##  ¿Cómo colaborar?
 Estamos abiertos a contribuciones en:
