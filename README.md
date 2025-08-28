@@ -36,7 +36,7 @@ Estamos abiertos a contribuciones en:
 - Karita            John Kenneth
 - Vega Cuzcano      Zulema Yamile
 
-# WANTED
+# WANTED BY THE FBI
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 | <img src="/images/1.jpg" width="90"/> | **Belevan Amaro Bertha Dominik**| Líder del equipo | Innovación social, sostenibilidad |
