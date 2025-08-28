@@ -1,4 +1,4 @@
-# Proyecto ODS 6 – EcoAqua Tank
+# Proyecto ODS 6 – EcoAqua Tank 8
 - Este repositorio documenta el desarrollo de EcoAqua Tank, un sistema inteligente y autosostenible de almacenamiento y purificación de agua, diseñado para garantizar agua limpia en comunidades rurales y urbanas con acceso limitado.
 - El proyecto se alinea con el Objetivo de Desarrollo Sostenible (ODS) 6: Agua limpia y saneamiento, específicamente con la meta 6.1, que busca lograr el acceso universal y equitativo al agua potable segura y asequible para todos.
 - EcoAqua Tank aporta a esta meta al integrar un tanque de agua inteligente con sensores y un purificador solar autónomo, empoderando a las comunidades con información en tiempo real sobre la disponibilidad y calidad del agua.
@@ -7,7 +7,7 @@
 Diseñar y construir un tanque purificador solar inteligente, equipado con sensores, que permita:
 - Monitorear el nivel de agua en tiempo real
 - Purificar el agua mediante lámparas UV alimentadas con energía solar (con batería de respaldo)
-- Validar la calidad del agua con sensores de pH y turbidez        (REVISAR <---------------------------------------------------------------------------------------- )
+- Validar la calidad del agua con sensores de pH, turbidez, conductividad, sólidos disueltos       ** (REVISAR <---------------------------------------------------------------------------------------- )
 - Alertar al usuario en caso de niveles bajos o agua no apta para consumo (posiblemente con IoT o algún otro método)
 - Como fuente alternativa recolectar agua con atrapanieblas en zonas de alta humedad (pequeña escala)
 
@@ -35,3 +35,10 @@ Estamos abiertos a contribuciones en:
 - Cctamayo Vasquez  Willy Simeon
 - Karita            John Kenneth
 - Vega Cuzcano      Zulema Yamile
+
+| Foto | Nombre | Rol | Intereses |
+|------|--------|-----|-----------|
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Belevan Amaro Bertha Dominik**| Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Cctamayo Vasquez Willy Simeon** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Karita John Kenneth** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Vega Cuzcano Zulema Yamile** | Encargado/a de documentación | Comunicación científica, redacción técnica |
