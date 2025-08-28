@@ -12,6 +12,13 @@ En esta ocasión, hemos decidido centrar nuestro trabajo en el **Objetivo de Des
 
 ---
 
+## Objetivo
+
+Evitar que la población use recursos hídricos comprometidos mediante el descarte rápido del dispositivo usando los sensores de PH, Turbidez, conductividad y salinidad. Con esto contribuir a la supervisación de la calidad del agua a nivel nacional.
+
+
+---
+
 ## 📷 Fotografía del equipo
 
 <img src="/images/5.jpeg" width="1200"/>
