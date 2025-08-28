@@ -38,7 +38,7 @@ Estamos abiertos a contribuciones en:
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/images/integrante1.png" width="90"/> | **Belevan Amaro Bertha Dominik**| Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/images/integrante2.png" width="90"/> | **Cctamayo Vasquez Willy Simeon** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/images/1.jpg" width="90"/> | **Belevan Amaro Bertha Dominik**| Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/images/2.jpeg" width="90"/> | **Cctamayo Vasquez Willy Simeon** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="/images/3.jpg" width="90"/> | **Karita John Kenneth** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="/images/integrante2.png" width="90"/> | **Vega Cuzcano Zulema Yamile** | Encargado/a de documentación | Comunicación científica, redacción técnica |
