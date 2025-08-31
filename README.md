@@ -29,9 +29,9 @@ Evitar que la población use recursos hídricos comprometidos mediante el descar
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------| --- | --------- |
+| <img src="/images/3.jpg" width="90"/> | **Karita John Kenneth** | **Líder / Diseñador** | **---** |
 | <img src="/images/1.jpg" width="90"/> | **Belevan Amaro Bertha Dominik**|  **Responsable de investigación** | **---** |
 | <img src="/images/2.jpeg" width="90"/> | **Cctamayo Vasquez Willy Simeon** | **Programador / Modelador** | **Programación, simulación** |
-| <img src="/images/3.jpg" width="90"/> | **Karita John Kenneth** | **Diseñador** | **---** |
 | <img src="/images/4.jpg" width="90"/> | **Vega Cuzcano Zulema Yamile** | **Encargado de Documentación** | **---** |
 
 ---
