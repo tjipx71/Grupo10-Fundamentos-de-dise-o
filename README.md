@@ -1,4 +1,4 @@
-# Equipo 10 - Fundamentos de Diseño 2025-2  
+# Equipo 10 - Fundamentos de Diseño 2025-2  ---- ACTUALIZAR GITHUB 18:00 MAÑANA 12/09 LÍMITE
 ### Carrera de Ingeniería Ambiental / Informática   
 **Universidad Peruana Cayetano Heredia**
 
