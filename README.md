@@ -2,7 +2,9 @@
 ### Carrera de Ingeniería Ambiental / Informática   
 **Universidad Peruana Cayetano Heredia**
 
-# ENLACE: https://docs.google.com/document/d/1tMh8w4P5lDI5NhleI3tkeHCaXAwBYwVb13Nxs4feQHg/edit?tab=t.0
+# ENLACE documentos: https://docs.google.com/document/d/1tMh8w4P5lDI5NhleI3tkeHCaXAwBYwVb13Nxs4feQHg/edit?tab=t.0
+
+# ENLACE antecedentes https://docs.google.com/document/d/1iryDLKVLULV_mIBQmUCyinJf2zCzh2xDUNVw8ERWV84/edit?usp=sharing
 
 ---
 
