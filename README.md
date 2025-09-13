@@ -26,7 +26,10 @@ Hacer el descarte de aguas posiblemente contaminadas con un dispositivo costo ef
 - conductividad y salinidad
 - Temperatura
 
-
+## Impacto esperado
+- Social: acceso a agua segura en comunidades vulnerables.
+- Ambiental: reducción de enfermedades de origen hídrico y mejor control de la calidad del agua.
+- Tecnológico: uso de sensores accesibles y plataformas digitales para monitoreo en tiempo real.
 ---
 
 ## 📷 Fotografía del equipo
