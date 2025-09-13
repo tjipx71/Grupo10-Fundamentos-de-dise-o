@@ -18,7 +18,13 @@ En esta ocasión, hemos decidido centrar nuestro trabajo en el **Objetivo de Des
 
 ## Objetivo
 
-Evitar que la población use recursos hídricos comprometidos mediante el descarte rápido del dispositivo usando los sensores de PH, Turbidez, conductividad y salinidad. Con esto contribuir a la supervisación de la calidad del agua a nivel nacional.
+Hacer el descarte de aguas posiblemente contaminadas con un dispositivo costo efectivo con lectura fácil y rápida que muestre la categoría de los Estándares de Calidad del Agua para mejor comprensión con una opción que describa detalles más avanzados. De esta manera se evita que la población use recursos hídricos comprometidos.
+
+## Criterios posibles a utilizar
+- PH
+- Turbidez
+- conductividad y salinidad
+- Temperatura
 
 
 ---
