@@ -30,6 +30,11 @@ Hacer el descarte de aguas posiblemente contaminadas con un dispositivo costo ef
 - Social: Acceso a agua segura en comunidades vulnerables.
 - Ambiental: Reducción de enfermedades de origen hídrico y mejor control de la calidad del agua.
 - Tecnológico: uso de sensores accesibles y plataformas digitales para monitoreo en tiempo real.
+
+## Resultados esperados / métricas
+
+- Conectar la información a un dashboard IoT.
+- Posible escalabilidad hacia sistemas de alerta comunitaria o municipal
 ---
 
 ## 📷 Fotografía del equipo
