@@ -18,9 +18,9 @@ En esta ocasión, hemos decidido centrar nuestro trabajo en el **Objetivo de Des
 
 ## Objetivo
 
-Hacer el descarte de aguas posiblemente contaminadas con un dispositivo costo efectivo con lectura fácil y rápida que muestre la categoría de los Estándares de Calidad del Agua para mejor comprensión con una opción que describa detalles más avanzados. De esta manera se evita que la población use recursos hídricos comprometidos.
+Hacer el descarte de aguas posiblemente contaminadas con un dispositivo costo efectivo con lectura fácil y rápida, mostrando la categoría de los Estándares de Calidad del Agua para mejor comprensión y con una opción que describa los parámetros medidos. De esta manera se evita que la población use recursos hídricos comprometidos.
 
-## Criterios posibles a utilizar
+## Criterios de medición
 - PH
 - Turbidez
 - conductividad y salinidad
