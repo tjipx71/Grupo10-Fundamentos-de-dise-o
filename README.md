@@ -26,10 +26,10 @@ En esta ocasión, hemos decidido centrar nuestro trabajo en el **Objetivo de Des
 Hacer el descarte de aguas posiblemente contaminadas con un dispositivo costo efectivo con lectura fácil y rápida, mostrando la categoría de los Estándares de Calidad del Agua para mejor comprensión y con una opción que describa los parámetros medidos. De esta manera se evita que la población use recursos hídricos comprometidos.
 
 ## Criterios de medición
-- PH
-- Turbidez
-- conductividad y salinidad
-- Temperatura
+- pH: Mide acidez/alcalinidad, clave para potabilidad y vida acuática.
+- Turbidez: Indica partículas y posible presencia de patógenos.
+- Conductividad y salinidad: Reflejan sales disueltas y riesgo para riego y consumo.
+- Temperatura: Afecta solubilidad de oxígeno y actividad biológica.
 
 ## Impacto esperado
 - Social: Acceso a agua segura en comunidades vulnerables.
