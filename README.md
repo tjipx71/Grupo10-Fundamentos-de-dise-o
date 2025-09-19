@@ -32,9 +32,9 @@ Hacer el descarte de aguas posiblemente contaminadas con un dispositivo costo ef
 - **Temperatura:** Afecta solubilidad de oxígeno y actividad biológica.
 
 ## Impacto esperado
-- Social: Acceso a agua segura en comunidades vulnerables.
-- Ambiental: Reducción de enfermedades de origen hídrico y mejor control de la calidad del agua.
-- Tecnológico: uso de sensores accesibles y plataformas digitales para monitoreo en tiempo real.
+- ***Social:*** Acceso a agua segura en comunidades vulnerables.
+- ***Ambiental***: Reducción de enfermedades de origen hídrico y mejor control de la calidad del agua.
+- ***Tecnológico:*** uso de sensores accesibles y plataformas digitales para monitoreo en tiempo real.
 
 ## Resultados esperados / métricas
 
@@ -60,4 +60,4 @@ Hacer el descarte de aguas posiblemente contaminadas con un dispositivo costo ef
 ---
 
 ## 📚 Resumen Final
-- Este README explica quiénes somos, qué nos motiva y cómo enfocamos nuestro trabajo en el Objetivo de Desarrollo Sostenible 6: Agua limpia y saneamiento. Somos un grupo comprometido con aprender y aportar soluciones para garantizar el acceso al agua potable y el saneamiento adecuado, fundamentales para la salud y el bienestar. Durante el curso, nuestro objetivo es contribuir a mejorar la gestión y uso sostenible del agua, buscando generar un impacto positivo en nuestra comunidad y el medio ambiente.
+- Este README explica quiénes somos, qué nos motiva y cómo enfocamos nuestro trabajo en el **Objetivo de Desarrollo Sostenible 6: Agua limpia y saneamiento.** Somos un grupo comprometido con aprender y aportar soluciones para garantizar el acceso al agua potable y el saneamiento adecuado, fundamentales para la salud y el bienestar. Durante el curso, nuestro objetivo es contribuir a mejorar la gestión y uso sostenible del agua, buscando generar un impacto positivo en nuestra comunidad y el medio ambiente.
