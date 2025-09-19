@@ -3,8 +3,16 @@
 **Universidad Peruana Cayetano Heredia**
 
 ---
-DOCUMENTO DE ANTECEDENTES
+
+## ENLACE DE DOCUMENTOS
+https://docs.google.com/document/d/1tMh8w4P5lDI5NhleI3tkeHCaXAwBYwVb13Nxs4feQHg/edit?tab=t.0
+
+## ENLACE DE ANTECEDENTES
 LINK: https://docs.google.com/document/d/1iryDLKVLULV_mIBQmUCyinJf2zCzh2xDUNVw8ERWV84/edit?tab=t.qnuqcshna2gs
+
+---
+
+
 ## 🌍 Descripción del equipo
 
 Somos participantes del curso **Fundamentos de Diseño 2025-2**, integrados por estudiantes de Ingeniería Ambiental y Informática. Nuestra misión es utilizar la metodología de diseño para desarrollar soluciones creativas que aporten valor social, tecnológico y ambiental.
