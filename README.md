@@ -30,6 +30,7 @@ Hacer el descarte de aguas posiblemente contaminadas con un dispositivo costo ef
 - **Turbidez:** Indica partículas y posible presencia de patógenos.
 - **Conductividad y salinidad:** Reflejan sales disueltas y riesgo para riego y consumo.
 - **Temperatura:** Afecta solubilidad de oxígeno y actividad biológica.
+- **Oxigeno disuelto:** Indican contaminación o exceso de materia orgánica en descomposición.
 
 ## Impacto esperado
 - ***Social:*** Acceso a agua segura en comunidades vulnerables.
