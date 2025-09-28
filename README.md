@@ -10,6 +10,9 @@ https://docs.google.com/document/d/1tMh8w4P5lDI5NhleI3tkeHCaXAwBYwVb13Nxs4feQHg/
 ## ENLACE DE ANTECEDENTES
 LINK: https://docs.google.com/document/d/1iryDLKVLULV_mIBQmUCyinJf2zCzh2xDUNVw8ERWV84/edit?tab=t.qnuqcshna2gs
 
+## ENLACE DE LISTA DE EXIGENCIAS
+LINK: https://docs.google.com/document/d/1k8qPc2LVsW6A_ICCk7txNZ1e9gbutrCt8sIwpefmW50/edit?tab=t.0
+
 ---
 
 
