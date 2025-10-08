@@ -13,6 +13,9 @@ LINK: https://docs.google.com/document/d/1iryDLKVLULV_mIBQmUCyinJf2zCzh2xDUNVw8E
 ## ENLACE DE LISTA DE EXIGENCIAS
 LINK: https://docs.google.com/document/d/1k8qPc2LVsW6A_ICCk7txNZ1e9gbutrCt8sIwpefmW50/edit?tab=t.0
 
+## SENSOR DE OXÍGENO DISUELTO
+LINK: https://es.aliexpress.com/item/1005004763039566.html?spm=a2g0o.productlist.main.3.5a4e63favpUvVT&algo_pvid=c66d64c3-f87b-4782-93d0-bf3fcb78dd13&algo_exp_id=c66d64c3-f87b-4782-93d0-bf3fcb78dd13-2&pdp_ext_f=%7B%22order%22%3A%2241%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21PEN%2168.00%2121.24%21%21%2118.95%215.92%21%402103205117596004116645782ed9e4%2112000032098212100%21sea%21PE%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Af7a15999%3Bm03_new_user%3A-29895%3BpisId%3A5000000174216173&curPageLogUid=iiwjLVBDPdD3&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004763039566%7C_p_origin_prod%3A#nav-specification
+
 ---
 
 
