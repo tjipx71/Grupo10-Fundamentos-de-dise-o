@@ -29,10 +29,11 @@ G01R-1/03 circuitos de protección
 | **SOLICITANTE(S)** |  BEIJING YONGCHENG TAMBIÉN CRÉDITO CIENCIA Y TECNOLOGÍA DESARROLLO SOCIEDAD LIMITADA | **FECHA DE PUBLICACIÓN 21 de junio de 2022** |
 
 | | |
-
 | **RESUMEN**   | **GRÁFICA/IMAGEN** |
 |  El modelo de utilidad pertenece al campo de los instrumentos de medición, y se refiere particularmente a un instrumento portátil de medición de calidad de agua que comprende una carcasa, un manguito antideslizante montado fijamente en un lado de la pared exterior de la carcasa, una primera ranura de fijación formada en el extremo superior de la pared exterior de la carcasa, un primer bloque de fijación conectado a la primera ranura de fijación, y un perno de fijación penetra a través del extremo superior del primer bloque de fijación; un extremo del perno de fijación está conectado con el mango; a través de la disposición del conjunto colorimétrico de muestra, una ranura de sujeción, un bloque de sujeción, una pantalla de filtro, una primera bisagra y una cubierta a prueba de polvo, se puede evitar que el líquido que se necesita medir se filtre aún más cuando el dispositivo se utiliza para la medición, se evita que las impurezas grandes entren en el dispositivo para influir en el resultado de la detección, y la pantalla de filtro se puede desmontar y limpiar después de un uso prolongado a través de la disposición de la ranura de sujeción y el bloque de sujeción, de modo que el dispositivo es cómodo de usar. Se prolonga la vida útil, se reduce el consumo de recursos y la primera bisagra y la cubierta a prueba de polvo están dispuestas de modo que el puerto de detección se puede proteger cuando el dispositivo no se utiliza y se evita que el polvo y otras impurezas ingresen al dispositivo para afectar el próximo uso.    | ![][image1] |
 | **CIP** | G01N21/01, G01N21/78   |
+
+| | |
 | **LINK** | [https://worldwide.espacenet.com/patent/search/family/081998412/publication/CN216791993U?q=ti%20all%20%22Handheld%20water%20quality%20measuring%20instrument%22](https://worldwide.espacenet.com/patent/search/family/081998412/publication/CN216791993U?q=ti%20all%20%22Handheld%20water%20quality%20measuring%20instrument%22)  |
 
 | TÍTULO | Instrumento portátil de medición de la calidad del agua |  |
