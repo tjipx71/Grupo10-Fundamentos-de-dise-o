@@ -41,10 +41,16 @@ G01R-1/03 circuitos de protección
 | TÍTULO | Instrumento portátil de medición de la calidad del agua |  |
 | :---- | :---- | :---- |
 | **SOLICITANTE(S)** | POINT FOUR WATER QUALITY TECHNOLOGIES SUZHOU CO LTDPOINT FOUR WATER QUALITY TECHNOLOGIES (SUZHOU) CO., LTD. | **FECHA DE PUBLICACIÓN** 2012-01-04 |
+
+| | |
+| :---- | ----- |
 | **RESUMEN** |  | **GRÁFICA/IMAGEN** |
 |  La invención describe un instrumento portátil de medición de la calidad del agua. El instrumento portátil de medición de la calidad del agua comprende un controlador principal conectado a una fuente de alimentación de funcionamiento, en donde el controlador principal comprende un solo chip y un módulo de base de datos, que están conectados entre sí; el módulo de base de datos está conectado a un módulo de protocolo de comunicación utilizado para comunicarse con una computadora; el solo chip está conectado a un módulo de modulación de señal; y el módulo de modulación de señal está conectado a un módulo de sensor. El módulo sensor incluye un sensor inteligente de conductividad/salinidad, un sensor inteligente de potencial de oxidación-reducción, un sensor inteligente de valor de pH, un sensor inteligente de gas disuelto total y un sensor inteligente de oxígeno disuelto. El instrumento portátil de medición de calidad de agua divulgado por la invención tiene las ventajas de alta precisión de medición, pequeño volumen y conveniencia para transportarlo y puede ser operado durante mucho tiempo; y los parámetros de medición de calidad de agua pueden almacenarse simultáneamente en el instrumento de medición de calidad de agua y en una computadora personal.  |  | ![][image2] |
-| **CIP** | G01N33/18 |  |
-| **LINK** | [https://worldwide.espacenet.com/patent/search/family/047233397/publication/CN102809637A?q=ti%20all%20%22Handheld%20water%20quality%20measuring%20instrument%22](https://worldwide.espacenet.com/patent/search/family/047233397/publication/CN102809637A?q=ti%20all%20%22Handheld%20water%20quality%20measuring%20instrument%22) |  |
+| **CIP** | G01N33/18 |  
+
+| | |
+| :---- | ----- |
+| **LINK** | [https://worldwide.espacenet.com/patent/search/family/047233397/publication/CN102809637A?q=ti%20all%20%22Handheld%20water%20quality%20measuring%20instrument%22](https://worldwide.espacenet.com/patent/search/family/047233397/publication/CN102809637A?q=ti%20all%20%22Handheld%20water%20quality%20measuring%20instrument%22) |  
 
 | TÍTULO | Wireless water quality multi-parameter monitoring system |  |
 | :---- | :---- | :---- |
