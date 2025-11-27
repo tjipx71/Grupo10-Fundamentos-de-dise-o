@@ -1,2 +1,3 @@
 
-<img src="/Recursos/Diagrama de flujo.jpg" width="1000"/>
+
+<img src="/Recursos/Diagrama de flujo.png" width="1000"/>
